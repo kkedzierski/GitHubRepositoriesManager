@@ -1,0 +1,10 @@
+{
+    "autoload":{
+        "psr-4": {
+            "GithubApiManager\\": "src/"
+        }
+    },
+    "require": {
+        "kkedzierski/rest-api-client": "^1.0"
+    }
+}
