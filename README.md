@@ -14,7 +14,7 @@ After pull respository to open project on localhost write in console:
 
 ***
 
-#### Login form POST and GET methods
+#### Login form GET methods
 ![login-form-page](https://user-images.githubusercontent.com/47725233/147888937-bb24604e-8d75-4224-8d2c-aa85292b79a7.png)
 
 #### API error handling
