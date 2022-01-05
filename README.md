@@ -2,6 +2,10 @@
 ## Simply app to manage your repositories on Github
 ### app use Github API and Rest Api Client: kkedzierski/rest-api-client
 
+### App on test available on
+
+http://github-repository-manager.epizy.com/
+
 ### Instalation
 
 ***
